@@ -27,7 +27,7 @@ export default function UserInput({ onChange, userInput }) {
       </div>
       <div className="input-group">
         <p>
-          <label>Expected Return</label>
+          <label>Expected Return %</label>
           <input
             type="number"
             required
